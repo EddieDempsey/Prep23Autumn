@@ -40,5 +40,5 @@ def monte_carlo(n):
     return results/n
 
 #Call the function
-answer = monte_carlo(50000)
+answer = monte_carlo(5000)
 print("Final value: ", answer)
